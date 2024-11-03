@@ -3,7 +3,9 @@
 ## AIM:
 To write a program to implement Message Authentication Code (MAC). 
 ## ALGORITHM:
-STEP-1: Input the plaintext message and symmetric key. STEP-2: Input the MAC value. STEP-3: Perform XOR encryption
+STEP-1: Input the plaintext message and symmetric key. 
+STEP-2: Input the MAC value.
+STEP-3: Perform XOR encryption
 STEP-4: Display the encrypted message
 STEP-5: Perform XOR decryption
 STEP-6: Display the decrypted message
