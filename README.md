@@ -41,8 +41,8 @@ int main() {
     char decrypted[MAX_LEN];  // Decrypted message
 
     printf("\n **Simulation of MAC Algorithm**\n\n");
-    printf(" DEVELOPED BY : Devadarshan A S\n");
-    printf(" REG NO : 212222110007\n\n");
+    printf(" DEVELOPED BY : SANJAY S\n");
+    printf(" REG NO : 212223040184\n\n");
 
     // Get plaintext message from the user
     printf("Enter the plaintext message: ");
@@ -75,13 +75,10 @@ int main() {
 
     return 0;
 }
-
-
 ```
 
 ## OUTPUT :
-![Screenshot 2024-10-18 135412](https://github.com/user-attachments/assets/305ac9a7-00c4-470f-9905-88af8edcffa4)
-
+![image](https://github.com/user-attachments/assets/4adadadf-e162-4906-ad0b-bf82d226050f)
 
 ## RESULT :
 Thus the Message Authentication Code (MAC) had been implemented sucessfully.
